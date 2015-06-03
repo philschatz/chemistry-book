@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+#permalink:        pretty
+
+# Setup
+title:            'Chemistry'
+tagline:          'from http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6 (CC-BY)'
+url:              https://github.com/philschatz/us-history-book
+origin:           http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6
+
+author:
+  name:           'Openstax'
+  url:            https://github.com/openstax
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+bookviewer:       /book-viewer
