@@ -17,8 +17,8 @@
   <!-- WARNING! The 'metadata' section is read only. Do not edit below.
        Changes to the metadata section in the source will not be saved. -->
 
-  <md:repository>http://legacy.cnx.org/content</md:repository>
-  <md:content-url>http://legacy.cnx.org/content/col11760/1.9</md:content-url>
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col11760/1.9</md:content-url>
   <md:content-id>col11760</md:content-id>
   <md:title>Chemistry</md:title>
   
@@ -125,7 +125,7 @@
   <col:content>
     
       <col:module document="m53245" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.16">
         <md:title>Preface</md:title>
         
@@ -148,7 +148,7 @@
           
     
       <col:module document="m50979" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -160,7 +160,7 @@
     
     
       <col:module document="m50984" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Chemistry in Context</md:title>
         
@@ -172,7 +172,7 @@
     
     
       <col:module document="m50986" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Phases and Classification of Matter</md:title>
         
@@ -184,7 +184,7 @@
     
     
       <col:module document="m50988" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Physical and Chemical Properties</md:title>
         
@@ -196,7 +196,7 @@
     
     
       <col:module document="m50989" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Measurements</md:title>
         
@@ -208,7 +208,7 @@
     
     
       <col:module document="m50993" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Measurement Uncertainty, Accuracy, and Precision</md:title>
         
@@ -220,7 +220,7 @@
     
     
       <col:module document="m50996" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Mathematical Treatment of Measurement Results</md:title>
         
@@ -246,7 +246,7 @@
           
     
       <col:module document="m50997" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -258,7 +258,7 @@
     
     
       <col:module document="m50999" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Early Ideas in Atomic Theory</md:title>
         
@@ -270,7 +270,7 @@
     
     
       <col:module document="m51000" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Evolution of Atomic Theory</md:title>
         
@@ -282,7 +282,7 @@
     
     
       <col:module document="m51001" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Atomic Structure and Symbolism</md:title>
         
@@ -294,7 +294,7 @@
     
     
       <col:module document="m51002" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Chemical Formulas</md:title>
         
@@ -306,7 +306,7 @@
     
     
       <col:module document="m51003" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Periodic Table</md:title>
         
@@ -318,7 +318,7 @@
     
     
       <col:module document="m51005" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Molecular and Ionic Compounds</md:title>
         
@@ -330,7 +330,7 @@
     
     
       <col:module document="m51007" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Chemical Nomenclature</md:title>
         
@@ -356,7 +356,7 @@
           
     
       <col:module document="m51010" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -368,7 +368,7 @@
     
     
       <col:module document="m51011" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Formula Mass and the Mole Concept</md:title>
         
@@ -380,7 +380,7 @@
     
     
       <col:module document="m51012" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.6">
         <md:title>Determining Empirical and Molecular Formulas</md:title>
         
@@ -392,7 +392,7 @@
     
     
       <col:module document="m51014" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Molarity</md:title>
         
@@ -404,7 +404,7 @@
     
     
       <col:module document="m51016" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Other Units for Solution Concentrations</md:title>
         
@@ -430,7 +430,7 @@
           
     
       <col:module document="m51020" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -442,7 +442,7 @@
     
     
       <col:module document="m51021" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Writing and Balancing Chemical Equations</md:title>
         
@@ -454,7 +454,7 @@
     
     
       <col:module document="m51022" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.7">
         <md:title>Classifying Chemical Reactions</md:title>
         
@@ -466,7 +466,7 @@
     
     
       <col:module document="m51024" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Reaction Stoichiometry</md:title>
         
@@ -478,7 +478,7 @@
     
     
       <col:module document="m51029" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Reaction Yields</md:title>
         
@@ -490,7 +490,7 @@
     
     
       <col:module document="m51030" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Quantitative Chemical Analysis</md:title>
         
@@ -516,7 +516,7 @@
           
     
       <col:module document="m51032" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -528,7 +528,7 @@
     
     
       <col:module document="m51033" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Energy Basics</md:title>
         
@@ -540,7 +540,7 @@
     
     
       <col:module document="m51034" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Calorimetry</md:title>
         
@@ -552,7 +552,7 @@
     
     
       <col:module document="m51035" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Enthalpy</md:title>
         
@@ -578,7 +578,7 @@
           
     
       <col:module document="m51036" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -590,7 +590,7 @@
     
     
       <col:module document="m51037" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Electromagnetic Energy</md:title>
         
@@ -602,7 +602,7 @@
     
     
       <col:module document="m51039" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>The Bohr Model</md:title>
         
@@ -614,7 +614,7 @@
     
     
       <col:module document="m51040" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Development of Quantum Theory</md:title>
         
@@ -626,7 +626,7 @@
     
     
       <col:module document="m51041" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Electronic Structure of Atoms (Electron Configurations)</md:title>
         
@@ -638,7 +638,7 @@
     
     
       <col:module document="m51042" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Periodic Variations in Element Properties</md:title>
         
@@ -664,7 +664,7 @@
           
     
       <col:module document="m51046" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -676,7 +676,7 @@
     
     
       <col:module document="m51047" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Ionic Bonding</md:title>
         
@@ -688,7 +688,7 @@
     
     
       <col:module document="m51048" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Covalent Bonding</md:title>
         
@@ -700,7 +700,7 @@
     
     
       <col:module document="m51049" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Lewis Symbols and Structures</md:title>
         
@@ -712,7 +712,7 @@
     
     
       <col:module document="m51051" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Formal Charges and Resonance</md:title>
         
@@ -724,7 +724,7 @@
     
     
       <col:module document="m51052" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Strengths of Ionic and Covalent Bonds</md:title>
         
@@ -736,7 +736,7 @@
     
     
       <col:module document="m51053" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Molecular Structure and Polarity</md:title>
         
@@ -762,7 +762,7 @@
           
     
       <col:module document="m51054" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -774,7 +774,7 @@
     
     
       <col:module document="m51056" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Valence Bond Theory</md:title>
         
@@ -786,7 +786,7 @@
     
     
       <col:module document="m51057" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Hybrid Atomic Orbitals</md:title>
         
@@ -798,7 +798,7 @@
     
     
       <col:module document="m51058" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Multiple Bonds</md:title>
         
@@ -810,7 +810,7 @@
     
     
       <col:module document="m51059" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Molecular Orbital Theory</md:title>
         
@@ -836,7 +836,7 @@
           
     
       <col:module document="m51060" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -848,7 +848,7 @@
     
     
       <col:module document="m51061" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Gas Pressure</md:title>
         
@@ -860,7 +860,7 @@
     
     
       <col:module document="m51065" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Relating Pressure, Volume, Amount, and Temperature: The Ideal Gas Law</md:title>
         
@@ -872,7 +872,7 @@
     
     
       <col:module document="m51066" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Stoichiometry of Gaseous Substances, Mixtures, and Reactions</md:title>
         
@@ -884,7 +884,7 @@
     
     
       <col:module document="m51067" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Effusion and Diffusion of Gases</md:title>
         
@@ -896,7 +896,7 @@
     
     
       <col:module document="m51068" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Kinetic-Molecular Theory</md:title>
         
@@ -908,7 +908,7 @@
     
     
       <col:module document="m51072" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Non-Ideal Gas Behavior</md:title>
         
@@ -934,7 +934,7 @@
           
     
       <col:module document="m51073" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -946,7 +946,7 @@
     
     
       <col:module document="m51077" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Intermolecular Forces</md:title>
         
@@ -958,7 +958,7 @@
     
     
       <col:module document="m51078" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Properties of Liquids</md:title>
         
@@ -970,7 +970,7 @@
     
     
       <col:module document="m51079" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Phase Transitions</md:title>
         
@@ -982,7 +982,7 @@
     
     
       <col:module document="m51080" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Phase Diagrams</md:title>
         
@@ -994,7 +994,7 @@
     
     
       <col:module document="m51081" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Solid State of Matter</md:title>
         
@@ -1006,7 +1006,7 @@
     
     
       <col:module document="m51082" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Lattice Structures in Crystalline Solids</md:title>
         
@@ -1032,7 +1032,7 @@
           
     
       <col:module document="m51083" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -1044,7 +1044,7 @@
     
     
       <col:module document="m51085" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Dissolution Process</md:title>
         
@@ -1056,7 +1056,7 @@
     
     
       <col:module document="m51086" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Electrolytes</md:title>
         
@@ -1068,7 +1068,7 @@
     
     
       <col:module document="m51087" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Solubility</md:title>
         
@@ -1080,7 +1080,7 @@
     
     
       <col:module document="m51088" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Colligative Properties</md:title>
         
@@ -1092,7 +1092,7 @@
     
     
       <col:module document="m51091" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Colloids</md:title>
         
@@ -1118,7 +1118,7 @@
           
     
       <col:module document="m51095" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1130,7 +1130,7 @@
     
     
       <col:module document="m51097" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Chemical Reaction Rates</md:title>
         
@@ -1142,7 +1142,7 @@
     
     
       <col:module document="m51098" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Factors Affecting Reaction Rates</md:title>
         
@@ -1154,7 +1154,7 @@
     
     
       <col:module document="m51099" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Rate Laws</md:title>
         
@@ -1166,7 +1166,7 @@
     
     
       <col:module document="m51101" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Integrated Rate Laws</md:title>
         
@@ -1178,7 +1178,7 @@
     
     
       <col:module document="m51102" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Collision Theory</md:title>
         
@@ -1190,7 +1190,7 @@
     
     
       <col:module document="m51103" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Reaction Mechanisms</md:title>
         
@@ -1202,7 +1202,7 @@
     
     
       <col:module document="m51104" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Catalysis</md:title>
         
@@ -1228,7 +1228,7 @@
           
     
       <col:module document="m51107" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Opener</md:title>
         
@@ -1240,7 +1240,7 @@
     
     
       <col:module document="m51108" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Chemical Equilibria</md:title>
         
@@ -1252,7 +1252,7 @@
     
     
       <col:module document="m51109" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Equilibrium Constants</md:title>
         
@@ -1264,7 +1264,7 @@
     
     
       <col:module document="m51110" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Shifting Equilibria: Le Châtelier’s Principle</md:title>
         
@@ -1276,7 +1276,7 @@
     
     
       <col:module document="m51112" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Equilibrium Calculations</md:title>
         
@@ -1302,7 +1302,7 @@
           
     
       <col:module document="m51113" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1314,7 +1314,7 @@
     
     
       <col:module document="m51116" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Brønsted-Lowry Acids and Bases</md:title>
         
@@ -1326,7 +1326,7 @@
     
     
       <col:module document="m51117" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>pH and pOH</md:title>
         
@@ -1338,7 +1338,7 @@
     
     
       <col:module document="m51118" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Relative Strengths of Acids and Bases</md:title>
         
@@ -1350,7 +1350,7 @@
     
     
       <col:module document="m51120" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Hydrolysis of Salt Solutions</md:title>
         
@@ -1362,7 +1362,7 @@
     
     
       <col:module document="m51121" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Polyprotic Acids</md:title>
         
@@ -1374,7 +1374,7 @@
     
     
       <col:module document="m51123" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Buffers</md:title>
         
@@ -1386,7 +1386,7 @@
     
     
       <col:module document="m51124" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Acid-Base Titrations</md:title>
         
@@ -1412,7 +1412,7 @@
           
     
       <col:module document="m51125" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1424,7 +1424,7 @@
     
     
       <col:module document="m51127" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Precipitation and Dissolution</md:title>
         
@@ -1436,7 +1436,7 @@
     
     
       <col:module document="m51131" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Lewis Acids and Bases</md:title>
         
@@ -1448,7 +1448,7 @@
     
     
       <col:module document="m51134" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Multiple Equilibria</md:title>
         
@@ -1474,7 +1474,7 @@
           
     
       <col:module document="m51136" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1486,7 +1486,7 @@
     
     
       <col:module document="m51137" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Spontaneity</md:title>
         
@@ -1498,7 +1498,7 @@
     
     
       <col:module document="m51138" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Entropy</md:title>
         
@@ -1510,7 +1510,7 @@
     
     
       <col:module document="m51141" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Second and Third Laws of Thermodynamics</md:title>
         
@@ -1522,7 +1522,7 @@
     
     
       <col:module document="m51142" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Free Energy</md:title>
         
@@ -1548,7 +1548,7 @@
           
     
       <col:module document="m51146" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Opener</md:title>
         
@@ -1560,7 +1560,7 @@
     
     
       <col:module document="m51148" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Balancing Oxidation-Reduction Reactions</md:title>
         
@@ -1572,7 +1572,7 @@
     
     
       <col:module document="m51149" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Galvanic Cells</md:title>
         
@@ -1584,7 +1584,7 @@
     
     
       <col:module document="m51150" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Standard Reduction Potentials</md:title>
         
@@ -1596,7 +1596,7 @@
     
     
       <col:module document="m51151" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>The Nernst Equation</md:title>
         
@@ -1608,7 +1608,7 @@
     
     
       <col:module document="m51152" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Batteries and Fuel Cells</md:title>
         
@@ -1620,7 +1620,7 @@
     
     
       <col:module document="m55220" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Corrosion</md:title>
         
@@ -1632,7 +1632,7 @@
     
     
       <col:module document="m55202" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Electrolysis</md:title>
         
@@ -1658,7 +1658,7 @@
           
     
       <col:module document="m51154" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1670,7 +1670,7 @@
     
     
       <col:module document="m51156" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Periodicity</md:title>
         
@@ -1682,7 +1682,7 @@
     
     
       <col:module document="m51158" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence and Preparation of the Representative Metals</md:title>
         
@@ -1694,7 +1694,7 @@
     
     
       <col:module document="m51160" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Structure and General Properties of the Metalloids</md:title>
         
@@ -1706,7 +1706,7 @@
     
     
       <col:module document="m51162" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Structure and General Properties of the Nonmetals</md:title>
         
@@ -1718,7 +1718,7 @@
     
     
       <col:module document="m51164" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Compounds of Hydrogen</md:title>
         
@@ -1730,7 +1730,7 @@
     
     
       <col:module document="m51169" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Properties of Carbonates</md:title>
         
@@ -1742,7 +1742,7 @@
     
     
       <col:module document="m51171" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Occurrence, Preparation, and Properties of Nitrogen</md:title>
         
@@ -1754,7 +1754,7 @@
     
     
       <col:module document="m51172" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Properties of Phosphorus</md:title>
         
@@ -1766,7 +1766,7 @@
     
     
       <col:module document="m51234" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Compounds of Oxygen</md:title>
         
@@ -1778,7 +1778,7 @@
     
     
       <col:module document="m51174" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Properties of Sulfur</md:title>
         
@@ -1790,7 +1790,7 @@
     
     
       <col:module document="m51176" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Properties of Halogens</md:title>
         
@@ -1802,7 +1802,7 @@
     
     
       <col:module document="m51178" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Properties of the Noble Gases</md:title>
         
@@ -1828,7 +1828,7 @@
           
     
       <col:module document="m51185" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1840,7 +1840,7 @@
     
     
       <col:module document="m51186" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Occurrence, Preparation, and Properties of Transition Metals and Their Compounds</md:title>
         
@@ -1852,7 +1852,7 @@
     
     
       <col:module document="m51187" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Coordination Chemistry of Transition Metals</md:title>
         
@@ -1864,7 +1864,7 @@
     
     
       <col:module document="m51188" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Spectroscopic and Magnetic Properties of Coordination Compounds</md:title>
         
@@ -1890,7 +1890,7 @@
           
     
       <col:module document="m51190" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Introduction</md:title>
         
@@ -1902,7 +1902,7 @@
     
     
       <col:module document="m51191" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.5">
         <md:title>Hydrocarbons</md:title>
         
@@ -1914,7 +1914,7 @@
     
     
       <col:module document="m51192" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Alcohols and Ethers</md:title>
         
@@ -1926,7 +1926,7 @@
     
     
       <col:module document="m51193" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Aldehydes, Ketones, Carboxylic Acids, and Esters</md:title>
         
@@ -1938,7 +1938,7 @@
     
     
       <col:module document="m51194" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Amines and Amides</md:title>
         
@@ -1964,7 +1964,7 @@
           
     
       <col:module document="m51195" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Introduction</md:title>
         
@@ -1976,7 +1976,7 @@
     
     
       <col:module document="m51196" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Nuclear Structure and Stability</md:title>
         
@@ -1988,7 +1988,7 @@
     
     
       <col:module document="m51197" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Nuclear Equations</md:title>
         
@@ -2000,7 +2000,7 @@
     
     
       <col:module document="m51199" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Radioactive Decay</md:title>
         
@@ -2012,7 +2012,7 @@
     
     
       <col:module document="m51201" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Transmutation and Nuclear Energy</md:title>
         
@@ -2024,7 +2024,7 @@
     
     
       <col:module document="m51203" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Uses of Radioisotopes</md:title>
         
@@ -2036,7 +2036,7 @@
     
     
       <col:module document="m51206" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Biological Effects of Radiation</md:title>
         
@@ -2051,7 +2051,7 @@
     
     
       <col:module document="m51209" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>The Periodic Table</md:title>
         
@@ -2063,7 +2063,7 @@
     
     
       <col:module document="m51211" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Essential Mathematics</md:title>
         
@@ -2075,7 +2075,7 @@
     
     
       <col:module document="m51213" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Units and Conversion Factors</md:title>
         
@@ -2087,7 +2087,7 @@
     
     
       <col:module document="m51215" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Fundamental Physical Constants</md:title>
         
@@ -2099,7 +2099,7 @@
     
     
       <col:module document="m51217" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Water Properties</md:title>
         
@@ -2111,7 +2111,7 @@
     
     
       <col:module document="m51219" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Composition of Commercial Acids and Bases</md:title>
         
@@ -2123,7 +2123,7 @@
     
     
       <col:module document="m51221" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Standard Thermodynamic Properties for Selected Substances</md:title>
         
@@ -2135,7 +2135,7 @@
     
     
       <col:module document="m51225" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Ionization Constants of Weak Acids</md:title>
         
@@ -2147,7 +2147,7 @@
     
     
       <col:module document="m51226" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.4">
         <md:title>Ionization Constants of Weak Bases</md:title>
         
@@ -2159,7 +2159,7 @@
     
     
       <col:module document="m51229" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Solubility Products</md:title>
         
@@ -2171,7 +2171,7 @@
     
     
       <col:module document="m51230" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Formation Constants for Complex Ions</md:title>
         
@@ -2183,7 +2183,7 @@
     
     
       <col:module document="m51231" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Standard Electrode (Half-Cell) Potentials</md:title>
         
@@ -2195,7 +2195,7 @@
     
     
       <col:module document="m51233" version="latest"
-                  repository="http://legacy.cnx.org/content"
+                  repository="http://cnx.org/content"
                   cnxorg:version-at-this-collection-version="1.3">
         <md:title>Half-Lives for Several Radioactive Isotopes</md:title>
         
