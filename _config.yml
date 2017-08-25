@@ -7,9 +7,9 @@ markdown:         kramdown
 
 # Setup
 title:            'Chemistry'
-tagline:          'from http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.480 (CC-BY)'
+tagline:          'from http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.485 (CC-BY)'
 url:              https://github.com/philschatz/chemistry-book
-origin:           http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.480
+origin:           http://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6@9.485
 
 author:
   name:           'Openstax'
@@ -18,7 +18,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          9.480
+version:          9.485
 
 bookviewer:       http://philschatz.com/book-viewer
 
