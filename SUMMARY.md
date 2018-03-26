@@ -95,12 +95,11 @@ layout: page
     6.  [Reaction Mechanisms](contents/m51103.md)
     7.  [Catalysis](contents/m51104.md)
 
-14. {: .chapter} <span class="title">Fundamental Equilibrium Concepts</span>
-    1.  [Opener](contents/m51107.md)
-    2.  [Chemical Equilibria](contents/m51108.md)
-    3.  [Equilibrium Constants](contents/m51109.md)
-    4.  [Shifting Equilibria: Le Châtelier’s Principle](contents/m51110.md)
-    5.  [Equilibrium Calculations](contents/m51112.md)
+14. {: .chapter} [Fundamental Equilibrium Concepts](contents/m51107.md)
+    1.  [Chemical Equilibria](contents/m51108.md)
+    2.  [Equilibrium Constants](contents/m51109.md)
+    3.  [Shifting Equilibria: Le Châtelier’s Principle](contents/m51110.md)
+    4.  [Equilibrium Calculations](contents/m51112.md)
 
 15. {: .chapter} [Acid-Base Equilibria](contents/m51113.md)
     1.  [Brønsted-Lowry Acids and Bases](contents/m51116.md)
@@ -122,15 +121,14 @@ layout: page
     3.  [The Second and Third Laws of Thermodynamics](contents/m51141.md)
     4.  [Free Energy](contents/m51142.md)
 
-18. {: .chapter} <span class="title">Electrochemistry</span>
-    1.  [Opener](contents/m51146.md)
-    2.  [Balancing Oxidation-Reduction Reactions](contents/m51148.md)
-    3.  [Galvanic Cells](contents/m51149.md)
-    4.  [Standard Reduction Potentials](contents/m51150.md)
-    5.  [The Nernst Equation](contents/m51151.md)
-    6.  [Batteries and Fuel Cells](contents/m51152.md)
-    7.  [Corrosion](contents/m55220.md)
-    8.  [Electrolysis](contents/m55202.md)
+18. {: .chapter} [Electrochemistry](contents/m51146.md)
+    1.  [Balancing Oxidation-Reduction Reactions](contents/m51148.md)
+    2.  [Galvanic Cells](contents/m51149.md)
+    3.  [Standard Reduction Potentials](contents/m51150.md)
+    4.  [The Nernst Equation](contents/m51151.md)
+    5.  [Batteries and Fuel Cells](contents/m51152.md)
+    6.  [Corrosion](contents/m55220.md)
+    7.  [Electrolysis](contents/m55202.md)
 
 19. {: .chapter} [Representative Metals, Metalloids, and Nonmetals](contents/m51154.md)
     1.  [Periodicity](contents/m51156.md)
