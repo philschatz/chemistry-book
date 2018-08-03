@@ -4,9 +4,7 @@ layout: page
 ---
 
 
-<div data-type="abstract">
-Chemistry is designed to meet the scope and sequence requirements of the two-semester general chemistry course. The textbook provides an important opportunity for students to learn the core concepts of chemistry and understand how those concepts apply to their lives and the world around them. The book also includes a number of innovative features, including interactive exercises and real-world applications, designed to enhance student learning.
-</div>
+<div data-type="abstract"></div>
 
 1.  {: .preface} [Preface](contents/m53245.md)
 2.  {: .chapter} [Essential Ideas](contents/m50979.md)
